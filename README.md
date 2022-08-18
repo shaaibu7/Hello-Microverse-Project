@@ -14,7 +14,7 @@ This project was created by setting up linters for html and css. and also added 
 project.
 
  
-GitHub: @githubhandle
+GitHub: @shaaibu7
 Twitter: @shaaibusuleiman
 LinkedIn: Shaaibu Suleiman
 Contributions, issues, and feature requests are welcome!
@@ -26,6 +26,6 @@ Give a star if you like this project!
 
  
 
-This project is MIT licensed.
+[This project is MIT licensed.](https://github.com/shaaibu7/Hello-Microverse-Project/blob/add-homepage/LICENSE)
 
  
